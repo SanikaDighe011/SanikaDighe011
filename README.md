@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SanikaDighe011/SanikaDighe011/main/SanikaDighe011-banner.png" alt="Sanika Dighe — Artificial Intelligence and Data Science Student" width="100%" />
+  <img src="https://raw.githubusercontent.com/SanikaDighe011/SanikaDighe011/main/SanikaDighe011-banner.svg" alt="Sanika Dighe — Artificial Intelligence and Data Science Student" width="100%" />
 </div>
 
 <div align="center">
