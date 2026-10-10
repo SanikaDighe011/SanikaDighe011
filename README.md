@@ -118,9 +118,13 @@ I'm interested in how programming, data, and artificial intelligence can be used
 
 ## 🌱 Contribution Activity
 
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaDighe011&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=8957e5&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+
+[![Sanika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanikaDighe011)](https://github.com/SanikaDighe011)
+
 </div>
+
 
 ---
 
