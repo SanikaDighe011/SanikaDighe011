@@ -1,28 +1,16 @@
-<!--
-SANIKA'S GITHUB PROFILE README — STARTER TEMPLATE
-Before publishing, replace every item marked YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_USERNAME,
-YOUR_EMAIL, and update/remove any links that do not apply. Keep the username identical to
-her GitHub account name.
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SanikaDighe011/SanikaDighe011/main/SanikaDighe011-banner.png" alt="Sanika Dighe — Artificial Intelligence and Data Science Student" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7BC8E8,50:7C4DFF,100:5B0E6D&height=190&section=header&text=Sanika%20Dighe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=58&descSize=16" alt="Sanika Dighe — AI and Data Science Student" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+AI+%26+Data+Science;Exploring+Machine+Learning;Building+Projects+One+Step+at+a+Time" alt="Typing introduction" />
+  <h3>Artificial Intelligence &amp; Data Science (AIDS) Student</h3>
+  <p>Exploring AI, data, machine learning, and practical problem-solving.</p>
+  <a href="https://github.com/SanikaDighe011">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
   </a>
-
-  <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-    </a>
-    <a href="mailto:YOUR_EMAIL">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sanika" />
-    </a>
-  </p>
+  <a href="https://github.com/SanikaDighe011?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-2ea44f?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Browse repositories" />
+  </a>
 </div>
 
 ---
@@ -31,47 +19,56 @@ her GitHub account name.
 
 Hi, I'm **Sanika Dighe**, an **Artificial Intelligence and Data Science (AIDS) student**.
 
-I'm interested in learning how data, programming, and AI can be used to solve real-world problems. I'm building my technical skills through coursework, practice, and projects, and I'll share my learning journey here on GitHub.
+I'm interested in how programming, data, and artificial intelligence can be used to solve practical problems. I'm building my skills through coursework, practice, and projects, and I'll share my learning journey here on GitHub.
 
-### 🎯 What I'm working toward
+## 🎯 What I'm Working Toward
 
 - 📊 Strengthening my data analysis and problem-solving skills
-- 🤖 Learning more about Artificial Intelligence and Machine Learning
-- 🧠 Practising programming and core computer science concepts
-- 🛠️ Building useful projects and documenting what I learn
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Practising programming and core computer science concepts
+- 🛠️ Building practical projects and documenting what I learn
+- 🌱 Learning continuously through experimentation and collaboration
 
-<!--
-ADD THESE SECTIONS AFTER SANIKA SHARES HER DETAILS:
-1. Featured projects: use real repository URLs and a short description for each project.
-2. Technologies & tools: list only languages, libraries, and tools she has actually used.
-3. Certifications, achievements, internships, and hackathons: include verified details only.
--->
+## 🧠 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-6f42c1?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Data_Science-Exploring-0969da?style=flat-square" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Exploring-1a7f37?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Exploring-bc4c00?style=flat-square" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Practising-8250df?style=flat-square" alt="Problem solving" />
+</p>
+
+## 🚀 Projects
+
+I'm building my project portfolio. Visit my repositories to see my current work; I'll feature individual projects here as I publish them.
+
+<p><a href="https://github.com/SanikaDighe011?tab=repositories">Browse Sanika's repositories →</a></p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Sanika" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used repository languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanikaDighe011&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Sanika's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaDighe011&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most-used repository languages" height="170" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://streak-stats.demolab.com?user=SanikaDighe011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" width="70%" />
 </div>
 
 ---
 
+## 🌱 Contribution Activity
+
 <div align="center">
-  <i>“Small steps every day lead to big results.”</i>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanikaDighe011&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=8957e5&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" width="95%" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>“Small steps every day lead to big results.”</i></p>
+  <img src="https://komarev.com/ghpvc/?username=SanikaDighe011&amp;style=flat-square&amp;color=blueviolet" alt="Profile views" />
 </div>
