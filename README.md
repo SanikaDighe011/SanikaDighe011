@@ -81,14 +81,31 @@ I'm interested in how programming, data, and artificial intelligence can be used
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanikaDighe011&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Sanika's GitHub statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaDighe011&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most-used repository languages" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SanikaDighe011&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" width="70%" />
-</div>
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming & Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Programming and web development icons" />
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools icons" />
+</p>
+
+### Data Science & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL icons" />
+</p>
+
+<p><em>Continuously learning, experimenting, and building practical projects.</em></p>
+
 
 ---
 
