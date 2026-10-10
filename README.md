@@ -41,9 +41,41 @@ I'm interested in how programming, data, and artificial intelligence can be used
 
 ## 🚀 Projects
 
-I'm building my project portfolio. Visit my repositories to see my current work; I'll feature individual projects here as I publish them.
 
-<p><a href="https://github.com/SanikaDighe011?tab=repositories">Browse Sanika's repositories →</a></p>
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📘 ADP-_LAB</h3>
+      <p>Explore the code and files in this repository.</p>
+      <a href="https://github.com/SanikaDighe011/ADP-_LAB">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🎓 Sanjivani</h3>
+      <p>Explore the available work and files in this repository.</p>
+      <a href="https://github.com/SanikaDighe011/Sanjivani">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐍 Python Project</h3>
+      <p>A Python/Jupyter Notebook repository.</p>
+      <a href="https://github.com/SanikaDighe011/python-project">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>💻 My Project</h3>
+      <p>Explore the source files and implementation.</p>
+      <a href="https://github.com/SanikaDighe011/my_project">View Project →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SanikaDighe011?tab=repositories">
+    Browse All Repositories →
+  </a>
+</p>
 
 ---
 
