@@ -42,7 +42,6 @@ I'm interested in how programming, data, and artificial intelligence can be used
 ## 🚀 Projects
 
 
-<h2>🚀 Featured Projects</h2>
 
 <table>
   <tr>
@@ -81,6 +80,14 @@ I'm interested in how programming, data, and artificial intelligence can be used
 
 ## 📊 GitHub Analytics
 
+
+<div align="center">
+
+[![Sanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanikaDighe011&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SanikaDighe011)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanikaDighe011&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
